@@ -2,6 +2,8 @@
 
 Encouraging Bot which detects depressing messages and says something nice. 
 
+This is my very first discord bot, there are many more to come so stay tuned and enjoy :) 
+
 ## How to use?
 
 `$inspire` to get a random inspirational quote
